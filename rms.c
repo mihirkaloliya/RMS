@@ -1,8 +1,8 @@
 /*
 This code is written by:
-ICA-B-23 = MIHIR KALOLIYA
-ICA-B-27 = MEET SONI
-IET-51 = KALP SHAH
+
+MIHIR KALOLIYA
+
 */
 
 #include<stdio.h>
